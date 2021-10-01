@@ -2,3 +2,9 @@ Grocery list
 Bread
 Butter
 Jam
+
+
+Supplies
+pencil
+tape
+glue

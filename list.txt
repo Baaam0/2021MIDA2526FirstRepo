@@ -2,3 +2,8 @@ Grocery list
 Bread
 Butter
 Jam
+
+
+Shoes 
+runners 
+sneakers

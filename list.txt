@@ -1,5 +1,17 @@
+shoes
+Grocery list
+Bread
+Butter
+Jam
+
+
+Shoes 
+runners 
+sneakers
+
 
 Supplies
 pencil
 tape
 glue
+ main
